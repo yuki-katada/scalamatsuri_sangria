@@ -1,6 +1,8 @@
 # ScalaMatsuri Sangria
 Sample Application for GraphQL in Scala (ScalaMasturi 2017), using GraphQL Scala Library "Sangria".
 
+![thumbnail/aja_logo_color_bk.png](thumbnail/aja_logo_color_bk.png)
+
 # Usage
 ```
 > git clone git@github.com:yuki-katada/scalamatsuri_sangria.git
