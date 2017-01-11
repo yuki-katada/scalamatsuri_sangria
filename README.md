@@ -1,5 +1,5 @@
 # scalamatsuri_sangria
-Sample Application for GraphQL in Scala (ScalaMasturi 2017)
+Sample Application for GraphQL in Scala (ScalaMasturi 2017), using GraphQL Scala Library "Sangria".
 
 # Usage
 ```
