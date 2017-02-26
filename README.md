@@ -26,4 +26,4 @@ Access to `http://localhost:1234/graphql` to check server is properly started.
 ```
 
 # Slide
-I will upload my slide after ScalaMasturi 2017.
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/1J77jGps5LhXvW" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/yuki-katada/introduction-to-graphql-in-scala-scalamatsuri-2017" title="Introduction to GraphQL in Scala (ScalaMatsuri 2017)" target="_blank">Introduction to GraphQL in Scala (ScalaMatsuri 2017)</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/yuki-katada">Yuki Katada</a></strong> </div>
